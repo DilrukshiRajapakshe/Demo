@@ -1,0 +1,22 @@
+com/treinetic/interviews1/dto/RegistrationStatus.java
+ com.treinetic.interviews1.dto.RegistrationStatus
+com/treinetic/interviews1/service/HealthCheckService.java
+ com.treinetic.interviews1.service.HealthCheckService
+com/treinetic/interviews1/repository/StudentRepository.java
+ com.treinetic.interviews1.repository.StudentRepository
+com/treinetic/interviews1/dto/Login.java
+ com.treinetic.interviews1.dto.Login
+com/treinetic/interviews1/service/NotificationService.java
+ com.treinetic.interviews1.service.NotificationService
+com/treinetic/interviews1/service/AdminService.java
+ com.treinetic.interviews1.service.AdminService
+com/treinetic/interviews1/service/StudentService.java
+ com.treinetic.interviews1.service.StudentService
+com/treinetic/interviews1/dto/Student.java
+ com.treinetic.interviews1.dto.Student
+com/treinetic/interviews1/Application.java
+ com.treinetic.interviews1.Application
+com/treinetic/interviews1/config/RabbbitMQConfig.java
+ com.treinetic.interviews1.config.RabbbitMQConfig
+com/treinetic/interviews1/controller/HealthCheckController.java
+ com.treinetic.interviews1.controller.HealthCheckController
